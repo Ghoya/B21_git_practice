@@ -5,8 +5,8 @@ public class HelloMain {
 
         System.out.println("We created new  maven project");
         System.out.println("Added some more thing");
-
-
+        System.out.println("add some more coco thing");
+        System.out.println("git added more");
     }
 
 }
