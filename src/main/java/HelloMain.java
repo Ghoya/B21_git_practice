@@ -4,6 +4,8 @@ public class HelloMain {
    // Happy to know you
 
         System.out.println("We created new  maven project");
+        System.out.println("Added some more thing");
+
 
     }
 
