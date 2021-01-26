@@ -9,8 +9,8 @@ public class HelloMain {
         System.out.println("git added more");
     //B21 is very awesome
         // god will help us
-        System.out.println("What i have to say");
-
+        System.out.println("What movie ");
+// watching movie at living room
 
     }
 
